@@ -1,7 +1,10 @@
 body {
   background-image: url("red-stars.jpg") !important;
   background-color: #9e0404;
+}
 
+p {
+  font-family: 'Arbutus Slab', serif;
 }
 
 .logo{
@@ -27,6 +30,8 @@ body {
 .wishing-div{
   width:65%; 
   margin: 0 auto;
+  text-align: center;
+  font-size: 1.30em;
 }
 
 .social-div{
